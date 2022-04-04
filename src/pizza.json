@@ -1,0 +1,392 @@
+[
+    {
+        "id": "9",
+        "title": "Мексиканская",
+        "kind":"meat",
+        "desc": "Говяжий рулет, нежное куриное филе, острые перчики Халапеньо, сыр Моцарелла, барбекю соус",
+        "url": "https://bellissimo.uz/_next/image?url=https%3A%2F%2Fio.bellissimo.uz%2Fimages%2F07b2af79-95e0-48ae-8962-3b29fdfcb6d4.jpg&w=384&q=75",
+        "type":{
+            "thin":{
+                "size_26_sm":{
+                    "size":26,
+                    "price":780,
+                    "number":0
+                },
+                "size_30_sm":{
+                    "size":30,
+                    "price":790,
+                    "number":0
+                },
+                "size_40_sm":{
+                    "size":40,
+                    "price":800,
+                    "number":0
+                }
+            },
+            "traditional":{
+                "size_26_sm":{
+                    "size":26,
+                    "price":810,
+                    "number":0
+                },
+                "size_30_sm":{
+                    "size":30,
+                    "price":820,
+                    "number":0
+                },
+                "size_40_sm":{
+                    "size":40,
+                    "price":830,
+                    "number":0
+                }
+            }
+        }
+    },
+
+    {
+        "id": "6",
+        "title": "Цыплёнок Ранч",
+        "kind":"bitter",
+        "desc": "Нежное куриное филе, сыр моцарелла, томаты и Ранч соус",
+        "url": "https://bellissimo.uz/_next/image?url=https%3A%2F%2Fio.bellissimo.uz%2Fimages%2F0a6ad3e4-3cac-40d4-a278-13416f28b5fe.jpg&w=384&q=75",
+        "type":{
+            "thin":{
+                "size_26_sm":{
+                    "size":26,
+                    "price":600,
+                    "number":0
+                },
+                "size_30_sm":{
+                    "size":30,
+                    "price":610,
+                    "number":0
+                },
+                "size_40_sm":{
+                    "size":40,
+                    "price":620,
+                    "number":0
+                }
+            },
+            "traditional":{
+                "size_26_sm":{
+                    "size":26,
+                    "price":630,
+                    "number":0
+                },
+                "size_30_sm":{
+                    "size":30,
+                    "price":640,
+                    "number":0
+                },
+                "size_40_sm":{
+                    "size":40,
+                    "price":650,
+                    "number":0
+                }
+            }
+        }
+    },
+    {
+        "id": "5",
+        "kind":"gril",
+        "title": "Двойная пепперони",
+        "desc": "Двойная порция пепперони в сочетании с сыром моцарелла под томатным соусом",
+        "url": "https://bellissimo.uz/_next/image?url=https%3A%2F%2Fio.bellissimo.uz%2Fimages%2F23138748-1bff-4994-b42b-cf7044ed4e0d.jpg&w=384&q=75",
+        "type":{
+            "thin":{
+                "size_26_sm":{
+                    "size":26,
+                    "price":540,
+                    "number":0
+                },
+                "size_30_sm":{
+                    "size":30,
+                    "price":550,
+                    "number":0
+                },
+                "size_40_sm":{
+                    "size":40,
+                    "price":560,
+                    "number":0
+                }
+            },
+            "traditional":{
+                "size_26_sm":{
+                    "size":26,
+                    "price":570,
+                    "number":0
+                },
+                "size_30_sm":{
+                    "size":30,
+                    "price":580,
+                    "number":0
+                },
+                "size_40_sm":{
+                    "size":40,
+                    "price":590,
+                    "number":0
+                }
+            }
+        }
+    },
+    {
+        "id": "4",
+        "title": "Гурме",
+        "kind":"meat",
+        "url": "https://bellissimo.uz/_next/image?url=https%3A%2F%2Fio.bellissimo.uz%2Fimages%2Fd020eb98-5c57-43d6-ba90-969907dc8186.jpg&w=384&q=75",
+        "type":{
+            "thin":{
+                "size_26_sm":{
+                    "size":26,
+                    "price":900,
+                    "number":0
+                },
+                "size_30_sm":{
+                    "size":30,
+                    "price":910,
+                    "number":0
+                },
+                "size_40_sm":{
+                    "size":40,
+                    "price":920,
+                    "number":0
+                }
+            },
+            "traditional":{
+                "size_26_sm":{
+                    "size":26,
+                    "price":950,
+                    "number":0
+                },
+                "size_30_sm":{
+                    "size":30,
+                    "price":960,
+                    "number":0
+                },
+                "size_40_sm":{
+                    "size":40,
+                    "price":970,
+                    "number":0
+                }
+            }
+        }
+    },
+    {
+        "id": "2",
+        "title": "Супер Микс",
+        "kind":"vegetarian",
+        "desc": "Нежное куриное филе, сыр моцарелла, томаты и Ранч соус",
+        "url": "https://bellissimo.uz/_next/image?url=https%3A%2F%2Fio.bellissimo.uz%2Fimages%2F94844930-5c66-4c12-a670-93b048169dbe.jpg&w=384&q=75",
+        "type":{
+            "thin":{
+                "size_26_sm":{
+                    "size":26,
+                    "price":360,
+                    "number":0
+                },
+                "size_30_sm":{
+                    "size":30,
+                    "price":370,
+                    "number":0
+                },
+                "size_40_sm":{
+                    "size":40,
+                    "price":380,
+                    "number":0
+                }
+            },
+            "traditional":{
+                "size_26_sm":{
+                    "size":26,
+                    "price":390,
+                    "number":0
+                },
+                "size_30_sm":{
+                    "size":30,
+                    "price":400,
+                    "number":0
+                },
+                "size_40_sm":{
+                    "size":40,
+                    "price":410,
+                    "number":0
+                }
+            }
+        }
+    },
+    {
+        "id": "3",
+        "title": "Чиккен карри",
+        "kind":"meat",
+        "desc": "Говяжий рулет и куриное филе в сочетании с сыром моцарелла, ананасами и соусом карри",
+        "url": "https://bellissimo.uz/_next/image?url=https%3A%2F%2Fio.bellissimo.uz%2Fimages%2F45bd4064-2430-4250-899d-d6f834d36c30.jpg&w=384&q=75",
+        "type":{
+            "thin":{
+                "size_26_sm":{
+                    "size":26,
+                    "price":420,
+                    "number":0
+                },
+                "size_30_sm":{
+                    "size":30,
+                    "price":430,
+                    "number":0
+                },
+                "size_40_sm":{
+                    "size":40,
+                    "price":440,
+                    "number":0
+                }
+            },
+            "traditional":{
+                "size_26_sm":{
+                    "size":26,
+                    "price":450,
+                    "number":0
+                },
+                "size_30_sm":{
+                    "size":30,
+                    "price":460,
+                    "number":0
+                },
+                "size_40_sm":{
+                    "size":40,
+                    "price":470,
+                    "number":0
+                }
+            }
+        }
+    },
+    
+    {
+        "id": "1",
+        "title": "Сырный цыплёнок",
+        "kind":"vegetarian",
+        "desc": "Нежное куриное филе, сыр моцарелла, томаты и сырный соус",
+        "url": "https://bellissimo.uz/_next/image?url=https%3A%2F%2Fio.bellissimo.uz%2Fimages%2F17126e05-7876-45a6-be19-e6d0af0328a4.jpg&w=384&q=75",
+        "type":{
+            "thin":{
+                "size_26_sm":{
+                    "size":26,
+                    "price":480,
+                    "number":0
+                },
+                "size_30_sm":{
+                    "size":30,
+                    "price":490,
+                    "number":0
+                },
+                "size_40_sm":{
+                    "size":40,
+                    "price":500,
+                    "number":0
+                }
+            },
+            "traditional":{
+                "size_26_sm":{
+                    "size":26,
+                    "price":510,
+                    "number":0
+                },
+                "size_30_sm":{
+                    "size":30,
+                    "price":520,
+                    "number":0
+                },
+                "size_40_sm":{
+                    "size":40,
+                    "price":530,
+                    "number":0
+                }
+            }
+        }
+    },
+
+    {
+        "id": "7",
+        "title": "Халапеньо",
+        "kind":"gril",
+        "desc": "Филе индейки, нежная говядина, лук шалот, томаты, пикантные перчики халапеньо, сыр Моцарелла и барбекю соус",
+        "url": "https://bellissimo.uz/_next/image?url=https%3A%2F%2Fio.bellissimo.uz%2Fimages%2F84e3a554-551a-45f6-9ac1-9c7870aa6f14.jpg&w=384&q=75",
+        "type":{
+            "thin":{
+                "size_26_sm":{
+                    "size":26,
+                    "price":660,
+                    "number":0
+                },
+                "size_30_sm":{
+                    "size":30,
+                    "price":670,
+                    "number":0
+                },
+                "size_40_sm":{
+                    "size":40,
+                    "price":680,
+                    "number":0
+                }
+            },
+            "traditional":{
+                "size_26_sm":{
+                    "size":26,
+                    "price":690,
+                    "number":0
+                },
+                "size_30_sm":{
+                    "size":30,
+                    "price":700,
+                    "number":0
+                },
+                "size_40_sm":{
+                    "size":40,
+                    "price":710,
+                    "number":0
+                }
+            }
+        }
+    },
+    {
+        "id": "8",
+        "title": "Пепперони",
+        "kind":"bitter",
+        "desc": "Пепперони, сыр Моцарелла и томатный соус",
+        "url": "https://bellissimo.uz/_next/image?url=https%3A%2F%2Fio.bellissimo.uz%2Fimages%2F601282db-7274-43e4-ac74-e8987d53dd6e.jpg&w=384&q=75",
+        "type":{
+            "thin":{
+                "size_26_sm":{
+                    "size":26,
+                    "price":720,
+                    "number":0
+                },
+                "size_30_sm":{
+                    "size":30,
+                    "price":730,
+                    "number":0
+                },
+                "size_40_sm":{
+                    "size":40,
+                    "price":740,
+                    "number":0
+                }
+            },
+            "traditional":{
+                "size_26_sm":{
+                    "size":26,
+                    "price":750,
+                    "number":0
+                },
+                "size_30_sm":{
+                    "size":30,
+                    "price":760,
+                    "number":0
+                },
+                "size_40_sm":{
+                    "size":40,
+                    "price":770,
+                    "number":0
+                }
+            }
+        }
+    }
+    
+]
